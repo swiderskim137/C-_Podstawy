@@ -1,0 +1,16 @@
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\Gra0.Form1.resources
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\Gra0.csproj.GenerateResource.cache
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\Gra0.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\Gra0.AssemblyInfoInputs.cache
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\Gra0.AssemblyInfo.cs
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\Gra0.csproj.CoreCompileInputs.cache
+C:\OneDrive\Programowanie\C#\Gra0\bin\Debug\net7.0-windows\Gra0.exe
+C:\OneDrive\Programowanie\C#\Gra0\bin\Debug\net7.0-windows\Gra0.deps.json
+C:\OneDrive\Programowanie\C#\Gra0\bin\Debug\net7.0-windows\Gra0.runtimeconfig.json
+C:\OneDrive\Programowanie\C#\Gra0\bin\Debug\net7.0-windows\Gra0.dll
+C:\OneDrive\Programowanie\C#\Gra0\bin\Debug\net7.0-windows\Gra0.pdb
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\Gra0.dll
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\refint\Gra0.dll
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\Gra0.pdb
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\Gra0.genruntimeconfig.cache
+C:\OneDrive\Programowanie\C#\Gra0\obj\Debug\net7.0-windows\ref\Gra0.dll

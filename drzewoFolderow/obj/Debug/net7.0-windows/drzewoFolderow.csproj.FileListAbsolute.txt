@@ -1,0 +1,16 @@
+C:\OneDrive\Programowanie\C#\drzewoFolderow\bin\Debug\net7.0-windows\drzewoFolderow.exe
+C:\OneDrive\Programowanie\C#\drzewoFolderow\bin\Debug\net7.0-windows\drzewoFolderow.deps.json
+C:\OneDrive\Programowanie\C#\drzewoFolderow\bin\Debug\net7.0-windows\drzewoFolderow.runtimeconfig.json
+C:\OneDrive\Programowanie\C#\drzewoFolderow\bin\Debug\net7.0-windows\drzewoFolderow.dll
+C:\OneDrive\Programowanie\C#\drzewoFolderow\bin\Debug\net7.0-windows\drzewoFolderow.pdb
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\drzewoFolderow.Form1.resources
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\drzewoFolderow.csproj.GenerateResource.cache
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\drzewoFolderow.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\drzewoFolderow.AssemblyInfoInputs.cache
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\drzewoFolderow.AssemblyInfo.cs
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\drzewoFolderow.csproj.CoreCompileInputs.cache
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\drzewoFolderow.dll
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\refint\drzewoFolderow.dll
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\drzewoFolderow.pdb
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\drzewoFolderow.genruntimeconfig.cache
+C:\OneDrive\Programowanie\C#\drzewoFolderow\obj\Debug\net7.0-windows\ref\drzewoFolderow.dll
